@@ -1,0 +1,4 @@
+- Implement front-end with vanilla js/FE framework
+- Consider rate limiting 
+- Fix batching
+- Create auth
